@@ -20,3 +20,8 @@ html {
     @apply bg-black/30 backdrop-blur;
   }
 }
+
+table tr td p {
+  margin: 0 !important;
+  font-size: 14px !important;
+}
